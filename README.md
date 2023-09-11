@@ -5,7 +5,7 @@ WeatherApp is a React-based weather forecasting application that leverages Redux
 
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](Screenshot.PNG)
 
