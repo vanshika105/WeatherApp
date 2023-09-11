@@ -12,8 +12,8 @@ WeatherApp is a React-based weather forecasting application that leverages Redux
 
 ## Features
 
-- **Real-time Weather Data**: Get up-to-date weather information for any location worldwide.
-- **Search by Location**: Enter a city name or ZIP code to get weather details for a specific area.
+- **Real-time Weather Data**: Get up-to-date weather information for any city worldwide.
+- **Search by Location**: Enter a city name to get weather details for that area.
 - **Detailed Weather Information**: View temperature, humidity, wind speed, and weather conditions.
 - **User-Friendly Interface**: A clean and intuitive interface for easy navigation.
 - **Responsive Design**: Access the app on various devices, including desktop and mobile.
@@ -45,10 +45,10 @@ Start the development server
 ```
 
 Open your web browser and visit http://localhost:3000 to run the application locally.
-## Usage/Examples
+## Usage
 
 - Open the WeatherApp in your web browser.
-- Enter the name of the city or ZIP code for which you want to check the weather.
+- Enter the name of the city for which you want to check the weather.
 - Click the "Search" button.
 - View the weather details displayed on the screen.
 
